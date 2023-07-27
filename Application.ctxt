@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Application
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ getAllParkingSlots()
+comment3.params=
+comment3.target=void\ addSlot()
+comment4.params=
+comment4.target=void\ deleteSlot()
+comment5.params=
+comment5.target=void\ getAllUnoccupiedSpace()
+comment6.params=
+comment6.target=void\ deleteAllUnoccupiedSpace()
+comment7.params=
+comment7.target=void\ parkCar()
+comment8.params=
+comment8.target=void\ getCar()
+comment9.params=
+comment9.target=void\ removeCar()
+numComments=10

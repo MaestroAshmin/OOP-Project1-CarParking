@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=registrationNumber\ ownerName\ isStaff
+comment1.target=Car(java.lang.String,\ java.lang.String,\ boolean)
+comment10.params=
+comment10.target=java.lang.String\ getParkingTimeLength()
+comment2.params=
+comment2.target=java.lang.String\ getRegistrationNumber()
+comment3.params=registrationNumber
+comment3.target=void\ setRegistrationNumber(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getOwnerName()
+comment5.params=ownerName
+comment5.target=void\ setOwnerName(java.lang.String)
+comment6.params=
+comment6.target=boolean\ isStaff()
+comment7.params=isStaff
+comment7.target=void\ setStaff(boolean)
+comment8.params=
+comment8.target=java.lang.String\ getParkedTime()
+comment9.params=parkedTime
+comment9.target=void\ setParkedTime(java.time.LocalDateTime)
+numComments=11
